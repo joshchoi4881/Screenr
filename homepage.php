@@ -43,15 +43,15 @@
 				background-size: cover;
 			}
 			#skillCard {
-				background-image: url("photos/skill.jpg");
+				background-image: url("photos/skill.jpeg");
 				background-size: cover;
 			}
 			#researchCard {
-				background-image: url("photos/research.jpeg");
+				background-image: url("photos/research.png");
 				background-size: cover;
 			}
 			#inspectionCard {
-				background-image: url("photos/inspection.jpg");
+				background-image: url("photos/inspection.png");
 				background-size: cover;
 			}
 			h3 {
