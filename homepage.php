@@ -24,8 +24,8 @@
 				background: white;
 			}
 			.row {
-				display: block;
-				text-align: center;
+				display: flex;
+				justify-content: center;
 			}
 			.card {
 				display: inline-block;
@@ -43,15 +43,15 @@
 				background-size: cover;
 			}
 			#skillCard {
-				background-image: url("photos/skill.jpeg");
+				background-image: url("photos/skill.jpg");
 				background-size: cover;
 			}
 			#researchCard {
-				background-image: url("photos/research.png");
+				background-image: url("photos/research.jpeg");
 				background-size: cover;
 			}
 			#inspectionCard {
-				background-image: url("photos/inspection.png");
+				background-image: url("photos/inspection.jpg");
 				background-size: cover;
 			}
 			h3 {
@@ -64,10 +64,6 @@
 	</head>
 	<body>
 		<header id="myHeader" class="header">
-			<div class="info">
-				<a href="">About</a>
-				<a href="">Team</a>
-			</div>
 			<a href="homepage.php">
                 <h1>Screenr</h1>
             </a>

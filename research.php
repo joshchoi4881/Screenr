@@ -34,9 +34,7 @@
                 -moz-box-sizing: border-box;
             }
             .chat {
-                margin-left: 300px;
                 cursor: default;
-                width: 700px;
                 -webkit-touch-callout: none; /* iOS Safari */
                 -webkit-user-select: none;   /* Chrome/Safari/Opera */
                 -khtml-user-select: none;    /* Konqueror */

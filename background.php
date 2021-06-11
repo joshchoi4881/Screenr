@@ -34,9 +34,7 @@
                 -moz-box-sizing: border-box;
             }
             .chat {
-                margin-left: 300px;
                 cursor: default;
-                width: 700px;
                 -webkit-touch-callout: none; /* iOS Safari */
                 -webkit-user-select: none;   /* Chrome/Safari/Opera */
                 -khtml-user-select: none;    /* Konqueror */
@@ -200,17 +198,17 @@
             </div>
             <form action="background.php" method="POST">
                 <h1>Price Range Calculator:</h1>
-                <input id="county" type="checkbox" name="screens" value="county">County Criminal Records<br>
-                <input id="state" type="checkbox" name="screens" value="state">State Criminal Records<br>
-                <input id="federal" type="checkbox" name="screens" value="federal">Federal Criminal Records<br>
-                <input id="sex" type="checkbox" name="screens" value="sex">Sex Offender Status<br>
-                <input id="terrorist" type="checkbox" name="screens" value="terrorist">Records of Terrorist Activity<br>
-                <input id="motor" type="checkbox" name="screens" value="motor">Motor Vehicle Background Checks<br>
-                <input id="ssn" type="checkbox" name="screens" value="ssn">SSN Verification Checks<br>
-                <input id="education" type="checkbox" name="screens" value="education">Education Verification Checks<br>
-                <input id="employment" type="checkbox" name="screens" value="employment">Employment Verification Checks<br>
-                <input id="professional" type="checkbox" name="screens" value="professional">Professional License Checks<br>
-                <input id="credit" type="checkbox" name="screens" value="credit">Credit Background Checks<br>
+                <input id="county" type="checkbox" name="screens" value="county"> County Criminal Records<br>
+                <input id="state" type="checkbox" name="screens" value="state"> State Criminal Records<br>
+                <input id="federal" type="checkbox" name="screens" value="federal"> Federal Criminal Records<br>
+                <input id="sex" type="checkbox" name="screens" value="sex"> Sex Offender Status<br>
+                <input id="terrorist" type="checkbox" name="screens" value="terrorist"> Records of Terrorist Activity<br>
+                <input id="motor" type="checkbox" name="screens" value="motor"> Motor Vehicle Background Checks<br>
+                <input id="ssn" type="checkbox" name="screens" value="ssn"> SSN Verification Checks<br>
+                <input id="education" type="checkbox" name="screens" value="education"> Education Verification Checks<br>
+                <input id="employment" type="checkbox" name="screens" value="employment"> Employment Verification Checks<br>
+                <input id="professional" type="checkbox" name="screens" value="professional"> Professional License Checks<br>
+                <input id="credit" type="checkbox" name="screens" value="credit"> Credit Background Checks<br>
                 <br/>
                 <p id="costs"></p>
                 <p id="savings"></p>
