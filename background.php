@@ -145,7 +145,7 @@
 		</style>
 	</head>
 	<body>
-		<header id="myHeader" class="header"> d
+		<header id="myHeader" class="header">
 			<a href="homepage.php">
                 <h1>Screenr</h1>
             </a>
