@@ -146,10 +146,6 @@
 	</head>
 	<body>
 		<header id="myHeader" class="header">
-			<div class="info">
-				<a href="">About</a>
-				<a href="">Team</a>
-			</div>
 			<a href="homepage.php">
                 <h1>Screenr</h1>
             </a>
