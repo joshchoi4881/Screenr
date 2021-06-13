@@ -25,7 +25,7 @@
                 text-align: center;
             }
             #title {
-                color: #fff;
+                color: #000;
                 text-decoration: none;
             }
 			#title:hover {
