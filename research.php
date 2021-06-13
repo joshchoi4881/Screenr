@@ -24,6 +24,13 @@
                 background-color: #fff;
                 text-align: center;
             }
+            #title {
+                color: #fff;
+                text-decoration: none;
+            }
+			#title:hover {
+				text-decoration: none;
+			}
             .research {
                 text-align: center;
             }
@@ -146,7 +153,7 @@
 	</head>
 	<body>
 		<header id="myHeader" class="header">
-			<a href="homepage.php">
+			<a id="title" href="homepage.php">
                 <h1>Screenr</h1>
             </a>
 		</header>
